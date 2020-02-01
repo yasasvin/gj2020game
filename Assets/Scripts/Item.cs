@@ -6,11 +6,19 @@ using UnityEngine;
 public class Item : MonoBehaviour
 {
     public BrokenItemObject type = null;
+    public GameObject ObjectToApper;
     Renderer rendererer;
     Material material;
     Color colour;
     Rigidbody rigidbody;
     bool breakSelf = false;
+    float held_time = 0;
+    bool clean = false;
+
+    public void Switcheroo()
+    {
+        ObjectToApper.SetActive(true);
+    }
 
     private void Awake()
     {
@@ -29,6 +37,8 @@ public class Item : MonoBehaviour
         {
             GetComponent<Renderer>().material.color = type.colour;
             breakSelf = true;
+            ObjectToApper.SetActive(false);
+
             if (type.puzzle == PuzzleTypes.Moving)
             {
                 rigidbody.useGravity = true;
@@ -53,10 +63,24 @@ public class Item : MonoBehaviour
         }
         else
             breakSelf = true;
+
+        
     }
 
-    void OnMouseExit()
+    void OnMouseDown()
     {
         breakSelf = true;
+        held_time += Time.deltaTime;
+    }
+
+    void OnMouseUp()
+    {
+        held_time = 0.0f;
+    }
+    void OnMouseExit()
+    {
+
+
+
     }
 }

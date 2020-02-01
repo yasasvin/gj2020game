@@ -21,6 +21,8 @@ public class BrokenItemObjectCleanable : BrokenItemObject
         if (r.material.color.a <= 0.001f)
         {
             Destroy(gameObject);
+            Debug.Log("Test");
+            gameObject.GetComponent<Item>().Switcheroo();
         }
     }
 }
