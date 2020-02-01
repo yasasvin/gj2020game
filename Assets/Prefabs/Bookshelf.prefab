@@ -40,7 +40,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082636685198}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -84,7 +88,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082648033738}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -220,7 +228,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082662337962}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -264,7 +276,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082691100739}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -400,7 +416,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082731061227}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -444,7 +464,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082738198573}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -488,7 +512,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082745862934}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -532,7 +560,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082746355069}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -576,7 +608,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082764819292}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -620,7 +656,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082770631438}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -664,7 +704,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082812984280}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -708,7 +752,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082815823154}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -752,7 +800,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082821164427}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -796,7 +848,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082836930659}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -840,7 +896,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082894827722}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -884,7 +944,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082925820178}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -928,7 +992,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082936617963}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -972,7 +1040,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797082955503775}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1016,7 +1088,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083072981674}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1060,7 +1136,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083084024554}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1104,7 +1184,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083091723166}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1148,7 +1232,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083155505421}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1192,7 +1280,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083173435152}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1205,6 +1297,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1843797083178184171}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1233436828}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: Bookshelf
   m_TagString: Untagged
@@ -1228,6 +1324,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
+=======
+--- !u!65 &1233436828
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1843797083178184172}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.7275975, y: 3.0600567, z: 1.10215}
+  m_Center: {x: 1.515247, y: 2.4431248, z: -2.1622076}
+>>>>>>> Stashed changes
 --- !u!1 &1843797083219389521
 GameObject:
   m_ObjectHideFlags: 0
@@ -1268,7 +1380,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083219389521}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1312,7 +1428,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083258526332}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1356,7 +1476,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083267642359}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1400,7 +1524,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083280415333}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1444,7 +1572,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083301995718}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1488,7 +1620,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083320478554}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1532,7 +1668,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083326994987}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1576,7 +1716,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083386539428}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1712,7 +1856,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083397846294}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1756,7 +1904,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083447350874}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1892,7 +2044,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083564975718}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -1936,7 +2092,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083601637234}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2072,7 +2232,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083645889943}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2116,7 +2280,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083707982382}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2160,7 +2328,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083715935573}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2204,7 +2376,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083791187081}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2340,7 +2516,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083837998891}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2384,7 +2564,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083849904463}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2428,7 +2612,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083850972594}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2472,7 +2660,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083851310835}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2516,7 +2708,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083856818654}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2560,7 +2756,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083860410090}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2604,7 +2804,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083903069118}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2648,7 +2852,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797083984181299}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2692,7 +2900,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084010266574}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2736,7 +2948,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084128919196}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2780,7 +2996,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084151127616}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2824,7 +3044,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084167010515}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2868,7 +3092,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084189377317}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2912,7 +3140,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084276715423}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -2956,7 +3188,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084331078790}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -3092,7 +3328,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084388587477}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -3136,7 +3376,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084527983610}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -3180,7 +3424,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084564980768}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -3224,7 +3472,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084581085432}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -3268,7 +3520,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084665502453}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -3312,7 +3568,11 @@ BoxCollider:
   m_GameObject: {fileID: 1843797084696552713}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+<<<<<<< Updated upstream
   m_Enabled: 1
+=======
+  m_Enabled: 0
+>>>>>>> Stashed changes
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
