@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1890751669668573603}
   - component: {fileID: 1890751669668573600}
   - component: {fileID: 1890751669668573629}
+  - component: {fileID: -6833785159718695184}
   m_Layer: 0
   m_Name: SubFire
   m_TagString: Untagged
@@ -106,3 +107,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: {fileID: 11400000, guid: 60c082c2c4f67f94e8cc6053df197ab3, type: 2}
+--- !u!54 &-6833785159718695184
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890751669668573606}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

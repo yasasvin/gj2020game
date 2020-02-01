@@ -2,24 +2,38 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody))]
 public class Item : MonoBehaviour
 {
     public BrokenItemObject type = null;
     Renderer rendererer;
     Material material;
     Color colour;
+    Rigidbody rigidbody;
     bool breakSelf = false;
 
-    private void Start()
+    private void Awake()
     {
+        rigidbody = GetComponent<Rigidbody>();
+        rigidbody.isKinematic = true;
+        rigidbody.useGravity = false;
         rendererer = GetComponent<Renderer>();
         material = rendererer.material;
         colour = material.color;
+        gameObject.layer = LayerMask.NameToLayer("Interactables");
+    }
 
+    private void Start()
+    {
         if (type != null)
         {
             GetComponent<Renderer>().material.color = type.colour;
             breakSelf = true;
+            if (type.puzzle == PuzzleTypes.Moving)
+            {
+                rigidbody.useGravity = true;
+                rigidbody.isKinematic = false;
+            }
         }
     }
 
@@ -32,7 +46,7 @@ public class Item : MonoBehaviour
 
     void OnMouseOver()
     {
-        if (type != null && Input.GetMouseButton(0))
+        if (type != null && Input.GetMouseButton(0) && MovementScript.CleanableItems.Contains(this))
         {
             breakSelf = false;
             type.FixObject(gameObject);
