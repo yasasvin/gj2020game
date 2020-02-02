@@ -11,7 +11,7 @@ public class MovementScript : MonoBehaviour
     public LayerMask clickArea;
     private NavMeshAgent MyAgent;
     public Transform hand;
-    Animator anim;
+    public Animator anim;
     
     public static List<Item> CleanableItems; // Items you can clean in range. Left click to fix
 
@@ -31,7 +31,8 @@ public class MovementScript : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetMouseButtonDown(1))
+        GameObject heldObject = GameController.CONTROLLER.movingItem;
+        if (Input.GetMouseButtonDown(1) && (!heldObject || (heldObject && !heldObject.name.Equals("Phone"))))
         {
             Ray myRay = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hitinfo;
@@ -47,10 +48,7 @@ public class MovementScript : MonoBehaviour
         {
             anim.SetFloat("Speed", MyAgent.velocity.magnitude);
         }
-
-
-        GameObject heldObject = GameController.CONTROLLER.movingItem;
-
+        
         if (heldObject != null)
             ReleaseHeldItem();
         HoldItem(heldObject);
